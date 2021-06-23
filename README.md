@@ -11,4 +11,8 @@
  
  https://pedrazajulian.github.io/Portfolio/
 
+ Technologies used: HTML, CSS
+
+License: MIT
+
  ![the following image shows the screen shot from the homework](https://github.com/pedrazajulian/Portfolio/blob/main/assets/images/screenshot.PNG)
